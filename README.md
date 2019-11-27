@@ -20,7 +20,6 @@ Solutions can contain, but are not limited to:
 - Trigger users when nozzle exceeds threshold of performance
 - Parameters to change to adjust sensitivity
 
-#
 
 ## Sample Solution/ Architecture
 Teams are able to use any tools they wish, however preference will be given to those who use supportable, maintainable tools for an enterprise environment.
