@@ -1,5 +1,7 @@
 # [AzureML]("https://azure.microsoft.com/en-us/services/machine-learning/")
 
+Free Azure subscription at: [https://azure.microsoft.com/en-us/free/]("https://azure.microsoft.com/en-us/free/")
+
 Enterprise grade machine learning service to build and deploy models faster.
 
 Productivity for all skill levels:
