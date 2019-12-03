@@ -1,7 +1,8 @@
-# Pick and Place Nozzle Performance and Prediction
-### Use Case #2
-### Data Analytics and Insights Group
-### Key Contacts: Francisco Maturana/ Marzell Brown
+# Pick and Place Nozzle Performance and Prediction - Use Case #2
+
+Data Analytics and Insights Group
+
+Key Contacts: Francisco Maturana/ Marzell Brown
 
 ## Overview
 
@@ -34,14 +35,14 @@ Solutions can contain, but are not limited to:
 - Trigger users when nozzle exceeds threshold of performance
 - Parameters to change to adjust sensitivity -->
 
+## Challenges
+[Challenge 1 - Data acquisition and preparation](/Challenges/Challenge1.md)
 
-## [Challenge 1 - Data acquisition and preparation](/Challenges/Challenge1.md)
+[Challenge 2 - Performance predicition algorithm to anomaly detection](/Challenges/Challenge2.md)
 
-## [Challenge 2 - Performance predicition algorithm to anomaly detection](/Challenges/Challenge2.md)
+[Challenge 3 - Machine Learning based forecasting of anomaly](/Challenges/Challenge3.md)
 
-## [Challenge 3 - Machine Learning based forecasting of anomaly](/Challenges/Challenge3.md)
-
-## [Challenge 4 - Notifications and Performance Visualization](/Challenges/Challenge4.md)
+[Challenge 4 - Notifications and Performance Visualization](/Challenges/Challenge4.md)
 
 
 ## [Sample Architecture](Sample_Architecture.md)

@@ -26,7 +26,10 @@ Built in processors for data:
 Ability to create custom processors and custom user functions.
 A pipeline generally consists of a data source, a broker, one or more processors, and an emitter (data egress)
 
+## Pipeline Example
+![Pipeline](pipeline.png)
+
 ### Documentation
 [FT Edge User Guide]("Edge_User_Guide.pdf")
 
-# 
+# Step by Step TODO: Instructions
