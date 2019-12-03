@@ -1,7 +1,9 @@
 # Pick and Place Nozzle Performance and Prediction
-## Use Case #2
-## Data Analytics and Insights Group
+### Use Case #2
+### Data Analytics and Insights Group
 ### Key Contacts: Francisco Maturana/ Marzell Brown
+
+## Overview
 
 Create a prediction algorithm for monitoring anomalies in an electronic assembly manufacturing process.
 
@@ -13,13 +15,13 @@ This problem involves an end-to-end IoT solution (non real time) with four devel
 - Trigger notifications & Performance visualization
 
 Recommended Options (Hardware/Software) for Use Case 2 – Any below​
-- Laptop (Edge) and/or Microsoft Azure (Cloud) - Free Azure subscription at: https://azure.microsoft.com/en-us/free/​
+- Laptop (Edge) and/or Microsoft Azure (Cloud) 
 - Development suite: FT Edge; Thingworx Analytics; Custom​
 - Cloud: Blob storage; Azure Functions; Azure ML Studio; Databricks; SendGrid (notification); PowerBI​
 - Programming: JavaScript, C# or Python & Visual Studio Code
 
 
-[Background](Background.md)
+## [Problem Statement Background](Background.md)
 
 
 <!-- ## Hackathon Prompt
@@ -33,22 +35,18 @@ Solutions can contain, but are not limited to:
 - Parameters to change to adjust sensitivity -->
 
 
-[Challenge 1 - Data acquisition and preparation](/Challenges/Challenge1.md)
+## [Challenge 1 - Data acquisition and preparation](/Challenges/Challenge1.md)
 
-[Challenge 2 - Performance predicition algorithm to anomaly detection](/Challenges/Challenge2.md)
+## [Challenge 2 - Performance predicition algorithm to anomaly detection](/Challenges/Challenge2.md)
 
-[Challenge 3 - Machine Learning based forecasting of anomaly](/Challenges/Challenge3.md)
+## [Challenge 3 - Machine Learning based forecasting of anomaly](/Challenges/Challenge3.md)
 
-[Challenge 4 - Notifications and Performance Visualization](/Challenges/Challenge4.md)
-
-
+## [Challenge 4 - Notifications and Performance Visualization](/Challenges/Challenge4.md)
 
 
-## Sample Solution/ Architecture
-Teams are able to use any tools they wish, however preference will be given to those who use supportable, maintainable tools for an enterprise environment.
-A sample architecture is provided below with some technology options.  For the purpose of this prompt, participants must use the provided Azure Blob storage to retrive the data.  This is provided by the DA&I team.
-## 
-![Sample Architecture](Images/SampleArchitecture.png)
+## [Sample Architecture](Sample_Architecture.md)
+
+
 
 ## Success Criteria
 We are looking for a solution that will innovate the anomaly-detection system
@@ -73,7 +71,7 @@ But if you show how the prototype can be ported in the future to the FTInnovatio
 
 
 
-## Recommended Technology
+## Recommended Technology Help Docs
 Architecture/ Platforms can be provided if participants choose these technologies.
 
 Please request access to VMs on a group basis and connection creditials will be provided.
