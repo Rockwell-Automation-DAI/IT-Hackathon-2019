@@ -16,7 +16,4 @@ Incorporates supervised machine learning into industrial IoT solutions and exten
 
 ### Documentation 
 - [Thingworx Docs](https://www.ptc.com/en/support/help/thingworx_doc_resources#twx-platform)
-- [Thingworx Analytics](https://www.ptc.com/en/resources/iiot/product-brief/thingworx-analytics)
-- [Thingworx Mashups](https://www.ptc.com/en/resources/iiot/product-brief/thingworx-platform)
-- [Thingworx Analytics Support](https://support.ptc.com/help/thingworx_hc/thingworx_analytics_52/index.html#page/thingworx_analytics_7%2Fthingworxanalytics-welcome.html%23)
-- [Thingworx Developer](https://developer.thingworx.com/en)
+- [Tutorial](https://developer.thingworx.com/resources/guides/analytics-builder-quickstart)

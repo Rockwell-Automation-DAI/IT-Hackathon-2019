@@ -89,11 +89,10 @@ VM has Visual Studio Code with Python and JS Libraries
 #### Solution Reporting
 
 - [PowerBI](/Tech/PowerBI/PowerBI.md)
-- [Thingworx Mashups](/Tech/Thingworx/Thingworx.md)
 
 #### Notifications
 
-- [Twilio Sendgrid](https://docs.microsoft.com/en-us/azure/sendgrid-dotnet-how-to-send-email)
+- [Twilio Sendgrid](https://sendgrid.com/docs/API_Reference/Web_API_v3/index.html)
 - [Thingworx Notifications]("")
 
 #### Data Source (Required)

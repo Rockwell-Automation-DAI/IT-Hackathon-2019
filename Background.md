@@ -1,6 +1,7 @@
 ## Background
 ###### Rockwell Automation Electronic Assembly Manufacturing
 ![EAM](Images/Background_EAM.PNG)
+
 ###### Use Case Baseline State
 Reducing Defects in Electronic Assembly Manufacturing of Allen Bradley Products
 ![Baseline](Images/Background_Baseline.PNG)

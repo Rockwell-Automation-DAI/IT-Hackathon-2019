@@ -1,12 +1,8 @@
 # Data Acquisition and Preparation
 ![Pick and Place](pick_n_place_diagram.png)
-Approximately 400 nozzles per machine with 60 to 70 nozzles active during production
 
-Machine-generated provides Pick and Place parametric information
 
-- Data will be provided as JSON strings
 
-Data to be organized into useful dataset to perform the calculations
 
 ![Hint](Unique_id_ex.PNG)
 
