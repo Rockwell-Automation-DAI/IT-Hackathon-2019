@@ -71,7 +71,6 @@ But if you show how the prototype can be ported in the future to the FTInnovatio
 
 
 
-
 ## Recommended Technology Help Docs
 Architecture/ Platforms can be provided if participants choose these technologies.
 
@@ -102,3 +101,6 @@ VM has Visual Studio Code with Python and JS Libraries
 #### Development Tools
 - Visual Studio Code (IDE for FT Edge)
 - Python Libraries
+
+## Appendix
+![Appendix](Images/appendix.png)
