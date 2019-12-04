@@ -1,5 +1,5 @@
 
-# [FactoryTalk Analytics Edge]("https://www.rockwellautomation.com/en_NA/products/analytics/overview.page?pagetitle=FactoryTalk-Analytics-Platform&docid=c76b03a6a882d1802d961e37d1f00bb4")
+# [FactoryTalk Analytics Edge](https://www.rockwellautomation.com/en_NA/products/analytics/overview.page?pagetitle=FactoryTalk-Analytics-Platform&docid=c76b03a6a882d1802d961e37d1f00bb4)
 
 
 Low footprint analytics platform capable of real time and batch processing with low latency at the Edge layer.
@@ -30,6 +30,6 @@ A pipeline generally consists of a data source, a broker, one or more processors
 ![Pipeline](pipeline.png)
 
 ### Documentation
-[FT Edge User Guide]("Edge_User_Guide.pdf")
+[FT Edge User Guide](Edge_User_Guide.pdf)
 
 # Step by Step TODO: Instructions

@@ -1,0 +1,24 @@
+key contacts, add my name
+pick and place video link
+variables in Measuring a successful Pick and place - can be found in Json string.  make a note
+
+Sample Reference solution architecture
+change in paragraph from sample to Reference
+update picture of reference architecture
+won't need to pull from blob storage, delete this sentence
+
+Verify link is fixed on readme to get to FTEdge
+    
+
+https://powerbi.microsoft.com/en-us/blog/push-rows-to-a-power-bi-streaming-dataset-without-writing-any-code-using-microsoft-flow/
+
+fix all links
+
+twilio sendgrid link https://docs.microsoft.com/en-us/azure/sendgrid-dotnet-how-to-send-email
+
+update eam first slide with new screenshot
+
+grab pictures from challenge #1
+
+grab latest from challenge #2
+

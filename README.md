@@ -2,7 +2,7 @@
 
 Data Analytics and Insights Group
 
-Key Contacts: Francisco Maturana/ Marzell Brown
+Key Contacts: Francisco Maturana/ Braun Brennecke/ Marzell Brown
 
 ## Overview
 
@@ -45,7 +45,7 @@ Solutions can contain, but are not limited to:
 [Challenge 4 - Notifications and Performance Visualization](/Challenges/Challenge4.md)
 
 
-## [Sample Architecture](Sample_Architecture.md)
+## [Sample Reference Architecture](Sample_Architecture.md)
 
 
 
@@ -79,7 +79,7 @@ Please request access to VMs on a group basis and connection creditials will be 
 
 #### Advanced Predictive Analytics Modeling
 VM has Visual Studio Code with Python and JS Libraries
-- [FactoryTalk Analytics Edge](FTEdge.md)
+- [FactoryTalk Analytics Edge](/Tech/FTEdge/FTEdge.md)
 
 #### Machine Learning Modeling
 
@@ -93,7 +93,7 @@ VM has Visual Studio Code with Python and JS Libraries
 
 #### Notifications
 
-- [Twilio Sendgrid]("https://www.twilio.com/sendgrid")
+- [Twilio Sendgrid](https://docs.microsoft.com/en-us/azure/sendgrid-dotnet-how-to-send-email)
 - [Thingworx Notifications]("")
 
 #### Data Source (Required)

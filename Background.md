@@ -6,4 +6,4 @@ Reducing Defects in Electronic Assembly Manufacturing of Allen Bradley Products
 ![Baseline](Images/Background_Baseline.PNG)
 ![Baseline](Images/Lifecycle_Management.PNG)
 
-[Example Pick and Place machine video]("https://www.youtube.com/watch?v=c8cY42-qMcM") 
+[Example Pick and Place machine video](https://www.youtube.com/watch?v=c8cY42-qMcM) 

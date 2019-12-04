@@ -1,5 +1,5 @@
 # Data Acquisition and Preparation
-
+![Pick and Place](pick_n_place_diagram.png)
 Approximately 400 nozzles per machine with 60 to 70 nozzles active during production
 
 Machine-generated provides Pick and Place parametric information
@@ -15,6 +15,8 @@ Data to be organized into useful dataset to perform the calculations
 
 
 ## Measuring a successful Pick and Place
+Note: variables below can be found in JSON string above.
+
 A successful pick and place operation must conclude with an electronic component placement
 - ulplacements = ulpicks
 
