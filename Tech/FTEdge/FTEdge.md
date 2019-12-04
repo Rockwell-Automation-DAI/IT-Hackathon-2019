@@ -31,6 +31,8 @@ A pipeline generally consists of a data source, a broker, one or more processors
 
 ### Documentation
 [FT Edge User Guide](Edge_User_Guide.pdf)
+[FT Edge User Guide V3.0 (For MQTT)](Edge_User_Guide_3.0.pdf)
+
 
 # Step by Step TODO: Instructions
 
