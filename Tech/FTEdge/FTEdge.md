@@ -29,15 +29,9 @@ A pipeline generally consists of a data source, a broker, one or more processors
 ## Pipeline Example
 ![Pipeline](pipeline.png)
 
-### Documentation
-[FT Edge User Guide](Edge_User_Guide.pdf)
-[FT Edge User Guide V3.0 (For MQTT)](Edge_User_Guide_3.0.pdf)
+## Documentation
+- [FT Edge User Guide](Edge_User_Guide.pdf)
 
+- [FT Edge User Guide V3.0 (For MQTT)](Edge_User_Guide_3.0.pdf)
 
-# Step by Step TODO: Instructions
-
-1. Open VSCode in the edgedev folder
-2. Using Ctrl-Shift-P > Run Task > Export from FTEdge TODO: Fixme
-3. Create custom processor in folder ___ to call python file ___ TODO: Fixme
-4. Run Task > Import to FT Edge TODO: Fix me
-5. Place new custom processor in FTEdge pipeline
+- [WhitePaper: Using Python In Edge](Python_in_Edge.pdf)
